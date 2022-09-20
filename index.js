@@ -11,7 +11,7 @@ app.use(cors())
 
 
 
-const url = "mongodb+srv://admin:admin%40123@cluster0.2za6crn.mongodb.net/?retryWrites=true&w=majority";
+const url = "";
 
 let db;
 let students;
